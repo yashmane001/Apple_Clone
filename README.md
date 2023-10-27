@@ -1,1 +1,1 @@
-# Apple_Clone
+An Apple clone website is a website that mimics the design and aesthetics of Apple Inc.'s official website. It typically uses HTML, CSS, and JavaScript to replicate the look and feel of Apple's website, including its product displays, typography, and design style
